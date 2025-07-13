@@ -7,13 +7,11 @@ FoodConnect is a full-featured, responsive food delivery application built using
  Customer Interface (Frontend)
 - Responsive Design: Developed with React, FoodConnect offers a fully responsive interface that adapts to various devices, from desktops to mobile screens, ensuring an optimized user experience.
 - User Authentication: Secure user login and registration using JSON Web Tokens (JWT) to manage sessions and protect user data.
-- Browse and Search: Users can browse restaurants, view menus, and search for food items by category, popularity, or dietary preference.
-- Order Management: Customers can place orders, select their preferred delivery address, and track the status of their orders in real-time.
+- Order Management: Customers can place orders, select their preferred delivery address.
 - Payment Integration: With Stripe integrated, users can make secure, hassle-free payments directly within the app.
   
  Admin Panel
 - User Management: Admins can view and manage user accounts, including customer and delivery personnel information.
-- Menu and Restaurant Management: Easily add, edit, and delete food items, categories, and restaurant details to keep the offerings up to date.
 - Order Tracking: Real-time monitoring of active and past orders, with controls to update the order status (e.g., received, in-progress, completed, delivered).
 - Analytics: Track key metrics like popular items, order frequency, and user activity to make informed decisions and improve services.
 
