@@ -1,11 +1,11 @@
- Tomato: A Food Delivery App
+ FoodConnect : A Food Delivery App
 
-Tomato is a full-featured, responsive food delivery application built using the MERN stack (MongoDB, Express, React, Node.js) with Stripe payment integration. This project delivers a seamless experience for customers, administrators, and delivery personnel, combining a user-friendly frontend, a robust backend, and an intuitive admin panel into a single, comprehensive platform. 
+FoodConnect is a full-featured, responsive food delivery application built using the MERN stack (MongoDB, Express, React, Node.js) with Stripe payment integration. This project delivers a seamless experience for customers, administrators, and delivery personnel, combining a user-friendly frontend, a robust backend, and an intuitive admin panel into a single, comprehensive platform. 
 
  Features
 
  Customer Interface (Frontend)
-- Responsive Design: Developed with React, Tomato offers a fully responsive interface that adapts to various devices, from desktops to mobile screens, ensuring an optimized user experience.
+- Responsive Design: Developed with React, FoodConnect offers a fully responsive interface that adapts to various devices, from desktops to mobile screens, ensuring an optimized user experience.
 - User Authentication: Secure user login and registration using JSON Web Tokens (JWT) to manage sessions and protect user data.
 - Browse and Search: Users can browse restaurants, view menus, and search for food items by category, popularity, or dietary preference.
 - Order Management: Customers can place orders, select their preferred delivery address, and track the status of their orders in real-time.
@@ -26,7 +26,7 @@ Tomato is a full-featured, responsive food delivery application built using the 
  Technology Stack
 - Frontend: React, CSS3, Bootstrap/Material UI for styling, and Stripe integration for payment processing.
 - Backend: Node.js with Express.js, and WebSockets for real-time updates.
-- Database: MongoDB for efficient, scalable data storage.
+- Database: MongoDB atlas for efficient, scalable data storage.
 - Payment Integration: Stripe for secure and seamless payment processing.
 
  Getting Started
